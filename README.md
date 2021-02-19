@@ -1,7 +1,7 @@
 # 
 Article: Interpretable Fault Detection using Projections of Mutual Information Matrix
 
-Author: Shujian Yu, Feiya Lv, Chenglin Wen,Jose C. Principe
+Author: Feiya Lv, Shujian Yu, Chenglin Wen,Jose C. Principe
 
 Journal: Journal of The Franklin Institute, 2021
 
